@@ -1,5 +1,18 @@
 <h1>Air Paint</h1>
-<h2>As the name suggests, air paint allows you to paint pictures by moving your index finger in the air like a brush. You can select different colors and can clear the entire canvas whenever you like. The program uses OpenCV to video capture and Mediapipe Hands to detect the hand landmarks of the user.</h2>
-<img src="d1.png">
-<img src="d2.png">
-<img src="d3.png">
+A Computer Vision project that allows you to paint by moving your finger in the air like a brush.
+The program uses OpenCV to video capture and Mediapipe Hands to detect the index finger of the user.</h2>
+<h3>Technologies Used</h3>
+<ul>
+  <li>Python 3.11.3</li>
+  <li>IDE- Spyder 5.4.3</li>
+  <li>Libraries used-</li>
+  <ul>
+    <li>OpenCV</li>
+    <li>MediaPipe</li>
+    <li>NumPy</li>
+  </ul>
+</ul>
+<h3>Screenshots</h3>
+<img src="/screenshots/d1.png">
+<img src="screenshots/d2.png">
+<img src="screenshots/d3.png">
